@@ -25,7 +25,7 @@
 ⚡ 99.9% Uptime with Vercel Infrastructure
 ```
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-spluno.vercel.app-brightgreen?style=for-the-badge)](https://spluno.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-spluno.vercel.app-brightgreen?style=for-the-badge)](https://www.hypepool.live/)
 
 </div>
 
@@ -39,12 +39,12 @@
 
 | Dashboard & Analytics | Real-Time Chat System | Mobile Experience |
 |:---:|:---:|:---:|
-| ![Dashboard](./assets/screenshots/dashboard-overview.png) | ![Chat](./assets/screenshots/chat-system.png) | ![Mobile](./assets/screenshots/mobile-responsive.png) |
+| ![Dashboard](./assets/screenshots/IMG_3885.PNG) | ![Chat](./assets/screenshots/IMG_3879.PNG) | ![Mobile](./assets/screenshots/IMG_3880.PNG) |
 | *Comprehensive user dashboard* | *Stream-powered messaging* | *Native mobile experience* |
 
 | User Search & Discovery | QR Code Integration | 3D Table Visualization |
 |:---:|:---:|:---:|
-| ![Search](./assets/screenshots/user-search.png) | ![QR](./assets/screenshots/qr-integration.png) | ![3D](./assets/screenshots/3d-tables.png) |
+| ![Search](./assets/screenshots/IMG_3881.PNG) | ![QR](./assets/screenshots/IMG_3882.PNG) | ![3D](./assets/screenshots/IMG_3878.PNG) |
 | *Advanced search with filters* | *Instant QR scanning* | *React Three Fiber visuals* |
 
 </div>
