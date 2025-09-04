@@ -33,12 +33,6 @@
 
 ## 🎥 **Platform Demonstration**
 
-### 📹 **Video Walkthrough**
-> **Full Platform Demo**: Complete user journey from registration to table joining
-
-[![Spluno Platform Demo](./public/og.png)](https://spluno.vercel.app)
-*Click to view live platform demonstration*
-
 ### 📸 **Feature Screenshots**
 
 <div align="center">
